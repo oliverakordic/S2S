@@ -7,7 +7,8 @@ public class Student {
 	
 	
 	
-	public Student(String ime, String prezime, String brIndeksa, int godinaUpisa) {
+	public Student(String ime, String prezime, 
+			String brIndeksa, int godinaUpisa) {
 		super();
 		this.ime = ime;
 		this.prezime = prezime;
